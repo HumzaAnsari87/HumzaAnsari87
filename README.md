@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HumzaAnsari87
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate with Developes
+- 👋 Hi,this is Hamza Ansari
+- 👀 python enthusiast
+- 🌱 Computer Science & Data Engineering 
+- 💞️ I’m looking to collaborate with Developers
 - 📫 You can Reach me on Twitter, Facebook and other social media platforms
 
 <!---
